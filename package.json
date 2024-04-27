@@ -1,0 +1,14 @@
+{
+  "name": "entrega---programa-o-para-automa-o-de-testes",
+  "version": "1.0.0",
+  "description": "Projeto da avaliação final da disciplina de Programação para Automação de Testes",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 60000 test/**/*.test.js"
+  },
+  "author": "Felipe Coghi Pompeu Matsumoto",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^10.4.0"
+  }
+}
